@@ -1,0 +1,3 @@
+Alert popup appears!
+Confirm box popup appears! and 'You Pressed Cancel' is displayed
+Prompt box pop up appears! and 'Hello Vignesh How are you today' is displayed
